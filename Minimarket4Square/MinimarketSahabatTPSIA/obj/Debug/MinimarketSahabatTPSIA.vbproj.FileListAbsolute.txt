@@ -1,0 +1,44 @@
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.exe.config
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.exe
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.pdb
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.xml
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.vbprojResolveAssemblyReference.cache
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.LoginOperator.resources
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.Resources.resources
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.vbproj.GenerateResource.Cache
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.exe
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.xml
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.pdb
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmUtamaKasir.resources
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmUtamaAdmin.resources
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmODoperator.resources
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmODBarang.resources
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmTransPenjualan.resources
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\Bunifu_UI_v1.52.dll
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmTransPembelian.resources
+F:\KULIAH\semester 5\TPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmLaporanPenjualan.resources
+H:\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.exe.config
+H:\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.exe
+H:\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.xml
+H:\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.pdb
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.exe.config
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.exe
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.pdb
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\bin\Debug\MinimarketSahabatTPSIA.xml
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.vbprojResolveAssemblyReference.cache
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmLaporanPenjualan.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmODBarang.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmODoperator.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmTransPembelian.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmTransPenjualan.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmUtamaAdmin.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmUtamaKasir.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.LoginOperator.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.Resources.resources
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.vbproj.GenerateResource.cache
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.vbproj.CoreCompileInputs.cache
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.vbproj.CopyComplete
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.exe
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.xml
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.pdb
+E:\RPL\PRESENTASITPSIA\MinimarketSahabatTPSIA\MinimarketSahabatTPSIA\obj\Debug\MinimarketSahabatTPSIA.FmSupplier.resources
